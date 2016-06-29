@@ -1,0 +1,26 @@
+{
+  "name": "(hb)",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JS-LIU/HB.git"
+  },
+  "author": "liudq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JS-LIU/HB/issues"
+  },
+  "homepage": "https://github.com/JS-LIU/HB#readme",
+  "devDependencies": {
+    "jasmine-core": "^2.4.1",
+    "karma": "^1.1.0",
+    "karma-chrome-launcher": "^1.0.1",
+    "karma-cli": "^1.0.1",
+    "karma-jasmine": "^1.0.2"
+  }
+}
